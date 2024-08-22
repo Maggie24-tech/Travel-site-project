@@ -5,7 +5,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
-    url("../images/lisbon.png");
+    url("../images/denver\ cover.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -108,6 +108,10 @@ section.secondary {
   background: #f8f8f8;
 }
 
+.secondary img {
+  height: 100%;
+}
+
 .text-center {
   text-align: center;
 }
@@ -118,7 +122,7 @@ footer {
       rgba(39, 32, 68, 0.9),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/lisbon-footer.png");
+    url("../images/denver-footer.jpg");
 
   background-repeat: no-repeat;
   background-size: cover;
