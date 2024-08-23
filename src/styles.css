@@ -240,6 +240,10 @@ footer a {
     font-size: 12px;
   }
 
+  main h3 {
+    font-size: 26px;
+  }
+
   .grid {
     grid-template-columns: 1fr;
     grid-gap: 32px;
